@@ -1,0 +1,2 @@
+# PicGoBed
+PicGoimgs
